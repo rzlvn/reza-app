@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ladinar-journal",
-    "slug": "ladinar-journal",
+    "name": "journal-app",
+    "slug": "journal-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,7 +24,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.ladinar.ladinarjournal"
+      "package": "com.rzlvn.rzlvnjournal"
     },
     "web": {
       "favicon": "./assets/favicon.png"
